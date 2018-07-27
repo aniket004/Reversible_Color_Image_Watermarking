@@ -1,0 +1,39 @@
+
+------------------------------------------------------------------------------------
+Time: 24-Aug-2015 13:25:35
+
+Original Image File = E:\reversible watermarking code\Interpolation based YCoCg Color Img Watermarking\barbara.jpg
+Multiple Watermarking Scheme chosen
+BPP Lower = 0.1
+BPP Upper = 1
+BPP Step Size = 0.1
+Generate? Yes
+Compare? Yes
+
+Algorithm = DCT for Image watermarking
+Maximum Embedding Capacity: 9692 block(s) = 610596 bit(s).
+Total time taken: 184.343s
+
+Algorithm = DCT for Image watermarking
+Maximum Embedding Capacity: 9692 block(s) = 610596 bit(s).
+Total time taken: 183.3775s
+
+Algorithm = DCT for Image watermarking
+Maximum Embedding Capacity: 9692 block(s) = 610596 bit(s).
+Total time taken: 182.8248s
+
+Algorithm = DCT for Image watermarking
+Maximum Embedding Capacity: 9692 block(s) = 610596 bit(s).
+Total time taken: 182.5527s
+
+Algorithm = DCT for Image watermarking
+Maximum Embedding Capacity: 9692 block(s) = 610596 bit(s).
+Total time taken: 182.5067s
+
+Algorithm = DCT for Image watermarking
+Maximum Embedding Capacity: 9692 block(s) = 610596 bit(s).
+Total time taken: 183.6708s
+
+Algorithm = DCT for Image watermarking
+Maximum Embedding Capacity: 9692 block(s) = 610596 bit(s).
+Total time taken: 183.8619s

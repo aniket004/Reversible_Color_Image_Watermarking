@@ -1,0 +1,163 @@
+LENA
+[ wm_rgb y2rgb ] = Color_watermark( 'lena.tiff', wm );
+Maximum Embedding Capacity : 51040 bits.
+Embedded 51040 pure watermark bits.
+Maximum Embedding Capacity : 35038 bits.
+Embedded 35038 pure watermark bits.
+Maximum Embedding Capacity : 27232 bits.
+Embedded 27232 pure watermark bits.
+Watermarked RGB space: 113310 pure watermark bits.
+Maximum Embedding Capacity : 46315 bits.
+Embedded 46315 pure watermark bits.
+Maximum Embedding Capacity : 60282 bits.
+Embedded 60282 pure watermark bits.
+Maximum Embedding Capacity : 64302 bits.
+Embedded 64302 pure watermark bits.
+Watermarked YCbCrspace: 170899 pure watermark bits.
+
+-----------------------------------------------------------
+
+MANDRILL
+Maximum Embedding Capacity : 7920 bits.
+Embedded 7920 pure watermark bits.
+Maximum Embedding Capacity : 12578 bits.
+Embedded 12578 pure watermark bits.
+Maximum Embedding Capacity : 6758 bits.
+Embedded 6758 pure watermark bits.
+Watermarked RGB space: 27256 pure watermark bits.
+Maximum Embedding Capacity : 14245 bits.
+Embedded 14245 pure watermark bits.
+Maximum Embedding Capacity : 12790 bits.
+Embedded 12790 pure watermark bits.
+Maximum Embedding Capacity : 26324 bits.
+Embedded 26324 pure watermark bits.
+Watermarked YCbCrspace: 53359 pure watermark bits.
+
+-----------------------------------------------------------
+
+PLANE
+[ wm_rgb y2rgb ] = Color_watermark( 'plane.tiff', wm );
+Maximum Embedding Capacity : 31820 bits.
+Embedded 31820 pure watermark bits.
+Maximum Embedding Capacity : 32522 bits.
+Embedded 32522 pure watermark bits.
+Maximum Embedding Capacity : 29938 bits.
+Embedded 29938 pure watermark bits.
+Watermarked RGB space: 94280 pure watermark bits.
+Maximum Embedding Capacity : 35573 bits.
+Embedded 35573 pure watermark bits.
+Maximum Embedding Capacity : 101921 bits.
+Embedded 101921 pure watermark bits.
+Maximum Embedding Capacity : 109656 bits.
+Embedded 109656 pure watermark bits.
+Watermarked YCbCrspace: 247150 pure watermark bits.
+
+-----------------------------------------------------------
+
+SAILBOAT
+[ wm_rgb y2rgb ] = Color_watermark( 'sailboat.tiff', wm );
+Maximum Embedding Capacity : 12522 bits.
+Embedded 12522 pure watermark bits.
+Maximum Embedding Capacity : 11116 bits.
+Embedded 11116 pure watermark bits.
+Maximum Embedding Capacity : 14302 bits.
+Embedded 14302 pure watermark bits.
+Watermarked RGB space: 37940 pure watermark bits.
+Maximum Embedding Capacity : 30044 bits.
+Embedded 30044 pure watermark bits.
+Maximum Embedding Capacity : 48389 bits.
+Embedded 48389 pure watermark bits.
+Maximum Embedding Capacity : 40420 bits.
+Embedded 40420 pure watermark bits.
+Watermarked YCbCrspace: 118853 pure watermark bits.
+
+-----------------------------------------------------------
+
+SPLASH
+Maximum Embedding Capacity : 92790 bits.
+Embedded 92790 pure watermark bits.
+Maximum Embedding Capacity : 19323 bits.
+Embedded 19323 pure watermark bits.
+Maximum Embedding Capacity : 62992 bits.
+Embedded 62992 pure watermark bits.
+Watermarked RGB space: 175105 pure watermark bits.
+Maximum Embedding Capacity : 64727 bits.
+Embedded 64727 pure watermark bits.
+Maximum Embedding Capacity : 104663 bits.
+Embedded 104663 pure watermark bits.
+Maximum Embedding Capacity : 85770 bits.
+Embedded 85770 pure watermark bits.
+Watermarked YCbCrspace: 255160 pure watermark bits.
+
+-----------------------------------------------------------
+
+JELLYBEANS
+Maximum Embedding Capacity : 166716 bits.
+Embedded 166716 pure watermark bits.
+Maximum Embedding Capacity : 159132 bits.
+Embedded 159132 pure watermark bits.
+Maximum Embedding Capacity : 157918 bits.
+Embedded 157918 pure watermark bits.
+Watermarked RGB space: 483766 pure watermark bits.
+Maximum Embedding Capacity : 163135 bits.
+Embedded 163135 pure watermark bits.
+Maximum Embedding Capacity : 168189 bits.
+Embedded 168189 pure watermark bits.
+Maximum Embedding Capacity : 170613 bits.
+Embedded 170613 pure watermark bits.
+Watermarked YCbCrspace: 501937 pure watermark bits.
+
+-----------------------------------------------------------
+
+CAR
+Maximum Embedding Capacity : 43022 bits.
+Embedded 43022 pure watermark bits.
+Maximum Embedding Capacity : 49182 bits.
+Embedded 49182 pure watermark bits.
+Maximum Embedding Capacity : 52579 bits.
+Embedded 52579 pure watermark bits.
+Watermarked RGB space: 144783 pure watermark bits. 
+Maximum Embedding Capacity : 54943 bits.
+Embedded 54943 pure watermark bits.
+Maximum Embedding Capacity : 86850 bits.
+Embedded 86850 pure watermark bits.
+Maximum Embedding Capacity : 73468 bits.
+Embedded 73468 pure watermark bits.
+Watermarked YCbCrspace: 215261 pure watermark bits.
+
+-----------------------------------------------------------
+
+PEPPER
+Maximum Embedding Capacity : 50834 bits.
+Embedded 50834 pure watermark bits.
+Maximum Embedding Capacity : 39639 bits.
+Embedded 39639 pure watermark bits.
+Maximum Embedding Capacity : 34434 bits.
+Embedded 34434 pure watermark bits.
+Watermarked RGB space: 124907 / 274907 pure watermark bits. 
+Maximum Embedding Capacity : 53566 bits.
+Embedded 53566 pure watermark bits.
+Maximum Embedding Capacity : 161501 bits.
+Embedded 161501 pure watermark bits.
+Maximum Embedding Capacity : 153129 bits.
+Embedded 153129 pure watermark bits.
+Watermarked YCbCrspace: 368196 pure watermark bits.
+
+-----------------------------------------------------------
+
+ZELDA
+Maximum Embedding Capacity : 79345 bits.
+Embedded 79345 pure watermark bits.
+Maximum Embedding Capacity : 87705 bits.
+Embedded 87705 pure watermark bits.
+Maximum Embedding Capacity : 73974 bits.
+Embedded 73974 pure watermark bits.
+Watermarked RGB space: 241024 pure watermark bits.
+Maximum Embedding Capacity : 103312 bits.
+Embedded 103312 pure watermark bits.
+Maximum Embedding Capacity : 115918 bits.
+Embedded 115918 pure watermark bits.
+Maximum Embedding Capacity : 116889 bits.
+Embedded 116889 pure watermark bits.
+Watermarked YCbCrspace: 336119 pure watermark bits.
+

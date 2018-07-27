@@ -1,0 +1,95 @@
+LENA
+RGB
+Maximum Embedding Capacity : 9890
+Maximum Embedding Capacity (bpp) : 0.0377
+PSNR : 51.1761
+YCbCR
+Maximum Embedding Capacity : 21515
+Maximum Embedding Capacity (bpp) : 0.0821 
+PSNR : 52.4259
+
+
+-----------------------------------------------------------
+
+PLANE
+RGB
+Maximum Embedding Capacity : 26217
+Maximum Embedding Capacity (bpp) : 0.1000
+PSNR : 53.7928
+YCbCR
+Maximum Embedding Capacity : 108807 / 66807
+Maximum Embedding Capacity (bpp) : 0.4151
+PSNR : 51.1808
+
+-----------------------------------------------------------
+
+SAILBOAT
+RGB
+Maximum Embedding Capacity : 12409
+Maximum Embedding Capacity (bpp) : 0.0473
+PSNR : 52.5478
+YCbCR
+Maximum Embedding Capacity : 22704
+Maximum Embedding Capacity (bpp) : 0.0866
+PSNR : 51.3578
+
+-----------------------------------------------------------
+
+SPLASH
+RGB
+Maximum Embedding Capacity : 23802
+Maximum Embedding Capacity (bpp) : 0.0908
+PSNR : 51.6083
+YCbCR
+Maximum Embedding Capacity : 43578
+Maximum Embedding Capacity (bpp) : 0.1663
+PSNR : 50.6893
+
+-----------------------------------------------------------
+
+JELLYBEANS
+RGB
+Maximum Embedding Capacity : 49922
+Maximum Embedding Capacity (bpp) : 0.1904
+PSNR : 54.6073
+YCbCR
+Maximum Embedding Capacity : 76268
+Maximum Embedding Capacity (bpp) : 0.2909
+PSNR : 53.2197
+
+-----------------------------------------------------------
+
+CAR
+RGB
+Maximum Embedding Capacity : 18240
+Maximum Embedding Capacity (bpp) : 0.0696
+PSNR : 49.9853
+YCbCR
+Maximum Embedding Capacity : 30385
+Maximum Embedding Capacity (bpp) : 0.1159
+PSNR : 52.6661
+
+-----------------------------------------------------------
+
+PEPPER
+RGB
+Maximum Embedding Capacity : 22264
+Maximum Embedding Capacity (bpp) : 0.0849
+PSNR : 49.6922
+YCbCR
+Maximum Embedding Capacity : 32580
+Maximum Embedding Capacity (bpp) : 0.1243
+PSNR : 50.6079
+
+-----------------------------------------------------------
+
+ZELDA
+RGB
+Maximum Embedding Capacity : 20067
+Maximum Embedding Capacity (bpp) : 0.0765
+PSNR : 48.7514
+YCbCR
+Maximum Embedding Capacity : 52935
+Maximum Embedding Capacity (bpp) : 0.2019
+PSNR : 50.8679
+

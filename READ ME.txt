@@ -1,0 +1,10 @@
+
+===============================================================================================
+Interpolation based Watermarking
+===============================================================================================
+>> watermark = randi([0 1], 1, 99999);
+>> image = imread('lena.tiff');
+%%%%Embed
+>> [ watermarked_image len_wm overhead ] = EmbedWatermarkInterpolation( image, watermark );
+%%%%Extract
+>> [ retrieved_image watermark ] = ExtractWatermarkInterpolation( watermarked_image, len_wm, overhead );
